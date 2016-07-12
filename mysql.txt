@@ -12,6 +12,10 @@ def efg:
 	
 def runjava():
 	pass
-	
+
 def bbbb():
 	print "this is bbbb"
+
+def aaaa():
+	print 'this is aaaa'
+
