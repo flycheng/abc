@@ -1,2 +1,6 @@
 select * from abc;
 select * from ddd;
+
+def getdatafrommysql:
+	print "hello"
+	
