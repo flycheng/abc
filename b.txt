@@ -1,4 +1,10 @@
 bbbbbb
 
+
 def login():
 	print 'login'
+
+import re
+x = 'aaaaa'
+print re.findall('.*', x)
+
