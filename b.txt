@@ -1,1 +1,4 @@
 bbbbbb
+
+def login():
+	print 'login'
