@@ -9,3 +9,6 @@ def abc:
 	
 def efg:
 	pass
+	
+def runjava():
+	pass
