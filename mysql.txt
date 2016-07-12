@@ -4,3 +4,5 @@ select * from ddd;
 def getdatafrommysql:
 	print "hello"
 	
+def abc:
+	pass
