@@ -1,1 +1,5 @@
 bbbbbb
+
+import re
+x = 'aaaaa'
+print re.findall('.*', x)
