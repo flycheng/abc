@@ -6,3 +6,6 @@ def getdatafrommysql:
 	
 def abc:
 	pass
+	
+def efg:
+	pass
