@@ -12,3 +12,6 @@ def efg:
 	
 def runjava():
 	pass
+	
+def aaaa():
+	print 'this is aaaa'
